@@ -3,7 +3,6 @@
 //
 // IDECodeSnippetCompletionPrefix: queue_async
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: C86E89FA-6BAE-4BC2-8A98-FD6A999CEBD0
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
