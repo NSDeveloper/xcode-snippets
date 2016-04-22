@@ -1,15 +1,12 @@
-// queue_async
+// queue_main
 // use operation queue to do work in the background, and then to the main queue with the results
 //
-// IDECodeSnippetCompletionPrefix: queue_async
+// IDECodeSnippetCompletionPrefix: queue_main
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 
-[[[NSOperationQueue alloc]init]addOperationWithBlock:^{
-         <#code#>
-        [[NSOperationQueue mainQueue]addOperationWithBlock:^{
-            <#code#>
-        }];
+[[NSOperationQueue mainQueue]addOperationWithBlock:^{
+    <#code#>
 }];

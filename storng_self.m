@@ -1,9 +1,9 @@
-// weak self
-// Weak self reference
+// strong self
+// strong self reference
 //
-// IDECodeSnippetCompletionPrefix: wself
+// IDECodeSnippetCompletionPrefix: sself
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-__weak typeof(self)weakSelf = self;
+__strong __typeof(weakSelf)strongSelf = weakSelf;
