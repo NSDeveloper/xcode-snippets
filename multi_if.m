@@ -3,6 +3,7 @@
 //
 // IDECodeSnippetCompletionPrefix: multiif
 // IDECodeSnippetCompletionScopes: [CodeBlock]
+// IDECodeSnippetIdentifier: 7C8A9666-D75D-4FA4-9006-B68E99F3B08B
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
