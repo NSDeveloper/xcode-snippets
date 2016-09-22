@@ -1,15 +1,14 @@
-// Objective-C KVO: Observe Value For Keypath
-// Customize behavior when a key path is first observed.
+// kvo observeValueForKeyPath
+// Key-value observing
 //
 // IDECodeSnippetCompletionPrefix: kvom
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: FC4B0B8D-AD53-4B73-B775-7FDB8952CDDB
+// IDECodeSnippetIdentifier: 8717E99C-3709-4CF4-8C94-D1EBD097C871
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
-- (void)observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object change:(NSDictionary *)change context:(void *)context
-{
-    if (context == <#context#>) {
+// IDECodeSnippetVersion: 2
+- (void)observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object change:(NSDictionary *)change context:(void *)context {
+    if ([object isKindOfClass:<#class#>.class] && [keyPath isEqualToString:<#keypath#>]) {
         <#code to be executed upon observing keypath#>
     } else {
         [super observeValueForKeyPath:keyPath ofObject:object change:change context:context];

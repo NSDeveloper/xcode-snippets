@@ -6,6 +6,7 @@
 // IDECodeSnippetIdentifier: C824F3C6-0B81-41AD-85C1-0339B7B324F5
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetPlatformFamily: iphoneos
+// IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 1
 - (instancetype)initWithFrame:(CGRect)frame
 {
