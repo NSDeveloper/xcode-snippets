@@ -3,6 +3,7 @@
 //
 // IDECodeSnippetCompletionPrefix: tableviewds
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
+// IDECodeSnippetIdentifier: B8C9F444-A8A9-424F-A996-96FFADA6A633
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2

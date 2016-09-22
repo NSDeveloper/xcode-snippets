@@ -1,7 +1,7 @@
 // kvo observeValueForKeyPath
 // Key-value observing
 //
-// IDECodeSnippetCompletionPrefix: observeValueForKeyPath
+// IDECodeSnippetCompletionPrefix: kvom
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 8717E99C-3709-4CF4-8C94-D1EBD097C871
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
