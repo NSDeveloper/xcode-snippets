@@ -2,6 +2,7 @@
 // Define an Objective-C property.
 //
 // IDECodeSnippetCompletionPrefix: @pt
+// IDECodeSnippetCompletionScopes: [ClassInterfaceMethods]
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 1
