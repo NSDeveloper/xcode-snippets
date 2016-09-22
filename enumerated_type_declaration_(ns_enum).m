@@ -1,9 +1,8 @@
 // Enumerated Type Declaration (NS_ENUM)
 // Declare a new enumerated type with mutually exclusive choices.
 //
-// IDECodeSnippetCompletionPrefix: nsenum
+// IDECodeSnippetCompletionPrefix: tpenum
 // IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 55A559FF-DE7B-4C1D-BB23-A66EDB9A7B18
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetRelativePriority: 0
 // IDECodeSnippetVersion: 1

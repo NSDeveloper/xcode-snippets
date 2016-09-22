@@ -1,9 +1,8 @@
 // Enumerated Type Declaration (NS_OPTIONS)
 // Declare a new enumerated type with combinable bitmask values.
 //
-// IDECodeSnippetCompletionPrefix: nsoptions
+// IDECodeSnippetCompletionPrefix: tpopts
 // IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 247A1538-3248-42C0-94DC-4332862B6625
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetRelativePriority: 0
 // IDECodeSnippetVersion: 1
