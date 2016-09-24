@@ -1,7 +1,8 @@
 # xcode-snippets
 
 A set of custom code snippets for Xcode.
-More see <http://nshipster.com/xcode-snippets/>,
+Learn more about xcode snippets in [this blog of NSHipster](http://nshipster.com/xcode-snippets/).
+
 Drag snippet to xcode code snippet library,then look the new created file in ~/Library/Developer/Xcode/UserData/CodeSnippets. Open "xxx.codesnippet", it's a plist file.
 
 ## Install
