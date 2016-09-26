@@ -3,6 +3,7 @@
 //
 // IDECodeSnippetCompletionPrefix: inlineblk
 // IDECodeSnippetCompletionScopes: [CodeBlock]
+// IDECodeSnippetIdentifier: 01619633-ED72-4A1E-8084-4CE1908C7AA1
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 1
